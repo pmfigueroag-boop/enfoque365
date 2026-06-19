@@ -1,0 +1,19 @@
+# Python / Backend
+backend/venv/
+backend/__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.coverage
+backend/alembic.ini
+
+# Node / Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.DS_Store
+
+# IDEs
+.vscode/
+.idea/
